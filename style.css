@@ -1,0 +1,228 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+.baner{
+    background-image: url(images/donation13.jpg);
+    width: 100%;
+    height: 350px;
+    background-repeat: no-repeat;background-size: cover;
+    background-color: #cccccc;
+}
+.baner{
+    color: white;
+    text-align: center;
+}
+
+.baner-title{
+    font-size: 50px;
+    padding: 40px 0px 10px 0px;
+    
+}
+.paragraph{
+    padding: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+
+.button{
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    background-color: ;
+    border-radius:  4px;
+    padding: 7px 12px;
+
+   /* Second Sction*/ 
+}
+.about-title{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 35px;
+    margin-top: 60px;
+}
+.comon-paragraph{
+    text-align:center ;
+    padding: 5px;
+    margin: 10px;
+}
+ /* Third Sction*/ 
+ .Donate-amount{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+ }
+  
+.amount-item{
+    text-align: center;
+    height: 30px;
+    width: 60px;
+    margin: 5px;
+    padding: 20px;
+    background-color: rgba(123, 123, 123, 0.057);
+}
+.amount{
+     font-size: 30px;
+}
+.amount-item:hover{
+    border: 1px solid red;
+    background-color: rgba(137, 43, 226, 0.12);
+}
+/* Fourth Sction*/ 
+.input{
+    text-align:center ;
+    margin-top: 20px;
+}
+::placeholder{
+text-align: center;
+}
+.submit-button{
+    text-align: center;
+    padding-top: 20px;
+}
+.title2{
+    text-align: center;
+    padding-top: 40px;
+    margin-top: 60px;
+    font-size: 35px;
+}
+
+
+.donetion-item{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+.card1{
+    text-align:left;
+    height: auto;
+    width: 250px;
+    padding: 30px 15px;
+    margin: 10px;
+    background-color: rgba(154, 220, 246, 0.712);
+}
+.card2{
+        text-align:left;
+        height: auto;
+        width: 250px;
+        padding: 25px 15px 30px 15px;
+        margin: 10px;
+        background-color:rgba(147, 112, 216, 0.407);
+}
+.card3{
+    text-align:left;
+    height: auto;
+    width: 250px;
+    padding: 28px 15px;
+    margin: 10px;
+    background-color:rgba(244, 234, 122, 0.658);
+}
+.icon{
+    width: 60px;
+    padding: 5px;
+}
+
+ /* Fast Image And Description*/
+ .haf-width-des{
+    margin-left: 30%;
+    margin-right: 3%;
+    
+ }
+.title{
+    padding: 10px 0px 10px 0px;
+}
+.Fast-image{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+.haf-width{
+width: 50%;
+margin-left: 10px;
+}
+
+.donation-boxes{
+    width: 450px;
+    height: 250px;
+    padding-left: 20px;
+}
+
+ /* Second Image And Description*/
+ .wooden-door{
+    margin-left: 29%;
+     width: 450px;
+     height: 250px;
+ }
+
+.Second-Image-section{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.haf-width-des2{
+    margin-left: 3%;
+    margin-right: 28%;
+
+} 
+
+
+/* Inpur Email And Subscribe*/
+.input-section{
+    display: flex;
+    background-position: center;
+    color: blanchedalmond;
+}
+
+.input2{
+   text-align: center;
+   position: relative;
+background-color: blueviolet;
+}
+
+.Email{
+    height: 36px;
+    width: 350px;
+    margin: 50px 0px;
+    border-right: 0px;
+    border-radius: 10px 0px 0px 10px;
+   
+}
+    
+.Subscribe{
+    height: 40px;
+    width: 100px;
+    margin-left: -5px;
+    border-left: 0px;
+    border-radius: 0px 10px 10px 0px;
+    background-color: rgb(249, 110, 59);
+
+}
+/* Footer*/
+footer{
+    margin-top: 100px;
+    text-align: center;
+    color: aliceblue;
+    width: 100%;
+    height: 200px;
+    background-color: black;
+}
+.Title{
+    padding-top: 45px;
+    color:  rgb(249, 110, 59);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+   
+}
+.content{
+    padding-top: 30px;
+}
