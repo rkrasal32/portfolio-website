@@ -36,7 +36,7 @@ body{
     font-size: 20px;
     color: white;
     text-align: center;
-    background-color:blueviolet ;
+    background-color:rgba(255, 99, 71, 0.881) ;
     border-radius:  4px;
     padding: 7px 12px;
 }
@@ -182,8 +182,9 @@ margin-left: 10px;
 
 
 /* Inpur Email And Subscribe*/
-.input-section{
-    display: flex;
+.input-Section{
+    width: 800px;
+    margin: 0 auto;
     background-position: center;
     color: blanchedalmond;
 }
@@ -191,23 +192,25 @@ margin-left: 10px;
 .input2{
    text-align: center;
    position: relative;
-background-color: blueviolet;
+background-color: rgb(245, 229, 173);
 }
 
 .Email{
     height: 36px;
     width: 350px;
-    margin: 50px 0px;
-    border-right: 0px;
     border-radius: 10px 0px 0px 10px;
+    outline: none;
+    border: none;
+    background-color: rgba(128, 128, 128, 0.172);
    
 }
     
 .Subscribe{
-    height: 40px;
+    height: 36px;
     width: 100px;
-    margin-left: -5px;
-    border-left: 0px;
+    margin:50px 0px;
+    margin-left: -8px;
+    border: none;
     border-radius: 0px 10px 10px 0px;
     background-color: rgb(249, 110, 59);
 
